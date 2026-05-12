@@ -346,6 +346,14 @@ If you found this project valuable:
 
 ---
 
-# 📜 License
+# 📜 Personal Note
 
-This project is licensed under the MIT License.
+I’m passionate about learning new technologies and continuously improving my development skills through real-world projects and hands-on experience. Building AI-powered applications has been an exciting journey for me, and I’m always open to feedback, collaboration, and opportunities to grow as a developer.
+
+This project represents my effort to explore Full Stack Development, Generative AI integration, and modern software architecture using Java Spring Boot and React.
+
+Currently, I’m still learning cloud deployment and DevOps practices. If you have experience deploying Spring Boot applications or would like to guide me through deployment platforms and best practices, I would genuinely appreciate your support and mentorship.
+
+I believe in learning by building, staying consistent, and improving one step at a time 🚀
+
+
